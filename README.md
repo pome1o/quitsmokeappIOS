@@ -1,5 +1,5 @@
 # 大學專題戒菸APP
-
+<img src="https://imgur.com/xETXCJw" width="50%">
 # 主要功能
 
 - 手動紀錄抽菸狀況
